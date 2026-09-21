@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strict Value Architecture Diagnosis"
+  short_description: "Guided diagnosis of value, evidence, and economics"
+  default_prompt: "Use $run-strict-value-diagnosis to organize my project brief, ask two or three consequential questions at a time if needed, then begin the complete diagnosis, conditional roadmap, and report once the input is sufficient."
